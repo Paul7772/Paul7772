@@ -8,7 +8,7 @@
 <div>
   <h4>My skills:</h4>
   <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=Python&logoColor=yellow", alt="Python">
-  <img src="https://img.shields.io/badge/sqlite-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=yellow", alt="SQLite">
+  <img src="https://img.shields.io/badge/pygame-%23000000.svg?style=for-the-badge&logo=pygame&logoColor=yellow", alt="Pygame">
 <h4>My hobbies:</h4>
   <ol>
     <li>🎮Gaming - Favourite Game - Minecraft</li>
